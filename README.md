@@ -1,4 +1,4 @@
-# WaetherApp
+# WeatherApp
 
 Followed #MVVM design pattern for this demo.
 
